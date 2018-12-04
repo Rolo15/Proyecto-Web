@@ -1,0 +1,21 @@
+<main class="main">
+		<div class="contenedor">
+			<section class="info">
+				<article class="info__columna">
+					<img src="img/actividad1.jpg" alt="" class="info__img">
+					<h1 class="info__titulo">Danza del dragón presente en nustra institución Educativa</h1>
+					<p class="info__texto">Tuvimos el agrado de tener en nustra institución a la danza del dragón</p>
+				</article>
+				<article class="info__columna">
+					<img src="img/actividad2.jpg" alt="" class="info__img">
+					<h2 class="info__titulo">Agazajo por navidad</h2>
+					<p class="info__texto">Cada año nuestra institución celebra la noche buena anticipada, en compañía de nuestros alumnos, docentes y padres de familia</p>
+				</article>
+				<article class="info__columna">
+					<img src="img/actividad4.jpg" alt="" class="info__img">
+					<h4 class="info__titulo">Participación de misa por nuestro aniversario</h4>
+					<p class="info__texto">Cada año nuestra institución educativa participa de una misa por el aniversario de nuestra institución</p>
+				</article>
+			</section>
+		</div>
+	</main>

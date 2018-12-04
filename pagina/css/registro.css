@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR');
+
+
+body{
+	background: #A9BCF5;
+}
+
+
+.contenedor{
+	color: #fff;
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-30%);
+    padding:  70px 30px;
+    
+}
+
+.texto h2{
+	text-align: center;
+	color: #0B0B3B;
+	font-family: Baloo Tammudu;
+	font-size: 20px;
+}
+
+.texto p{
+	text-align: center;
+	color: #000;
+	font-family: Noto Serif KR;
+}
+
+.texto .imagen{
+	border-radius: 50%;
+	position: absolute;
+	left: calc(50% - 50px);
+	margin-top: -100px;
+}
+
+.texto a{
+	border:none;
+	outline: none;
+	height: 50px;
+	background: #b80f22;
+	color: #fff;
+	font-size: 15px;
+	border-radius: 15px;
+}

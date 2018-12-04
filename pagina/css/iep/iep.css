@@ -1,0 +1,15 @@
+body > div > nav {
+	padding-top: 20px;
+}
+
+.submenu {
+	background: #fff;
+	padding: 20px;
+	position: absolute;
+	display: none;
+}
+
+.submenu:hover{
+	display: flex;
+	
+}

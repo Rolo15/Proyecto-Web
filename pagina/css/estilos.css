@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu');
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #8181F7;
+	font-family: "Merienda";
+	font-size: 15px;
+}
+
+body > img {
+	max-width: 170px;
+	position: absolute;
+	margin-top: 15px;
+	padding: 45px;
+	top:0;
+	left: 2%;
+}
+
+.contenedor{
+	margin-top:0px;
+	width: 100%;
+	padding: 30px;
+	position: absolute;
+	top:0;
+	left:2%;
+}
+
+.contenedor nav{
+	width: 50%;
+	max-width: 1100px;
+	background: #8A0808;
+	margin: 40px auto;	
+}
+
+.contenedor nav ul{
+	list-style: none;
+	position: relative;
+}
+
+.contenedor nav > ul > li{
+	display: inline-block;
+}
+
+.contenedor nav > ul > li > a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.contenedor nav > ul > li > a span{
+	font-size: 20px;
+	position: absolute;
+	bottom: -5px;
+	display: none;
+}
+
+.contenedor nav > ul > li:hover span{
+	display: flex;
+}
+
+section > h1 {
+	margin-top: 30px;
+}
+
+section > h1 > p{
+	margin-top: 10px; 
+ }
+
+
+main > section > h1{
+	margin-top: 250px;
+}
+
+
+.contene {
+	margin-top: 10px;
+}
+
+#blog .contene{
+	display: flex;	
+	justify-content: center;
+	flex-wrap: wrap;
+	font-size: 10px;
+}
+
+#blog article {
+	margin:15px;
+}
+
+#blog  img{
+	width: 100%;
+	max-width:450px;
+}
+
+#blog h1,h2 {
+	text-align: center;
+}
